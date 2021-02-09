@@ -1,7 +1,7 @@
 # bilibili
 
 ## sayhello
-给新视频打招呼[!doge](https://i0.hdslb.com/bfs/emote/feb9abf68df628803ff69a244e744470c2b7e136.png@100w_100h.webp)
+给新视频打招呼![doge](https://i0.hdslb.com/bfs/emote/feb9abf68df628803ff69a244e744470c2b7e136.png@100w_100h.webp)
 
 使用
 1. 安装python3
